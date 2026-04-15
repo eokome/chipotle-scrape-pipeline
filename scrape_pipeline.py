@@ -9,6 +9,8 @@ import requests
 load_dotenv()
 
 api_key = os.getenv("FIRECRAWL_API_KEY")
+RAW_DIR = Path("knowledge/raw")
+RAW_DIR.mkdir(parents=True, exist_ok=True)
 
 # --- Step 01: Search + scrape with Firecrawl ---
 
@@ -30,8 +32,6 @@ data = response.json() # convert response to JSON
 results = data["data"]["web"] # get the results from the response
 print(f"Firecrawl returned {len(results)} results")
 
-RAW_DIR = Path("knowledge/raw")
-RAW_DIR.mkdir(parents=True, exist_ok=True)
 run_date = date.today().isoformat()
 
 for r in results:
