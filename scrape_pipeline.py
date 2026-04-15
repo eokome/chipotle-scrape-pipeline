@@ -1,6 +1,5 @@
 import os
 import re
-import time
 from datetime import date
 from pathlib import Path
 from dotenv import load_dotenv
@@ -27,6 +26,7 @@ payload = {
 }
 
 response = requests.post(api_url, headers=headers, json=payload)
+response.raise_for_status()
 
 data = response.json() # convert response to JSON
 results = data["data"]["web"] # get the results from the response
