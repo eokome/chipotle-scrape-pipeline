@@ -1,3 +1,5 @@
+python-dotenv==1.2.2
+requests==2.33.1
 ezshapes==1.0.2
 iniconfig==2.1.0
 packaging==25.0
