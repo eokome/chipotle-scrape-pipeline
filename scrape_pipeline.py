@@ -1,6 +1,5 @@
 import os
 import re
-from datetime import date
 from pathlib import Path
 from dotenv import load_dotenv
 import requests
@@ -32,18 +31,15 @@ data = response.json() # convert response to JSON
 results = data["data"]["web"] # get the results from the response
 print(f"Firecrawl returned {len(results)} results")
 
-run_date = date.today().isoformat()
-
-for r in results:
+for i, r in enumerate(results, start=1):
     print(f"  - {r['title']}")
     print(f"    {r['url']}")
     print(f"    markdown length: {len(r.get('markdown') or '')} chars")
 
-    url = r["url"]
-    url_slug = re.sub(r"[^a-zA-Z0-9.\-]", "_", url.replace("https://", "").replace("http://", "")).rstrip("_")
-    filename = f"{run_date}_{url_slug}.md"
+    title_slug = re.sub(r"[^a-zA-Z0-9]+", "-", r["title"].lower()).strip("-")
+    filename = f"{i:02d}-{title_slug}.md"
     filepath = RAW_DIR / filename
-    content = f"---\nurl: {url}\ntitle: {r['title']}\ndate: {run_date}\n---\n\n{r.get('markdown') or ''}"
+    content = f"---\nurl: {r['url']}\ntitle: {r['title']}\n---\n\n{r.get('markdown') or ''}"
     label = "[overwrite]" if filepath.exists() else "[saved]"
     filepath.write_text(content, encoding="utf-8")
     print(f"  {label} {filepath}")
