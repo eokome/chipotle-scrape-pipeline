@@ -3,35 +3,43 @@ url: https://newsroom.chipotle.com/press-releases
 title: chipotle news releases
 ---
 
-[Skip to main content](https://newsroom.chipotle.com/press-releases#content)
+### Your Privacy Preferences
+
+If you would like to submit a Data Subject Request, please click here: [Data Subject Request Form](https://www.chipotle.com/privacy-request)
+
+We use cookies to enhance your website and app experience, improve functionality and support our marketing efforts. You can manage your cookie preferences by clicking “Do Not Sell or Share My Personal Information / Opt Out.” If you wish to opt out of Chipotle’s sharing your personal information directly with third parties for the purpose of targeted advertising, please click on “Your Privacy Choices” link in the footer of our website and complete the US Consumer Data Request Form found under the Data Subject Rights tab. To learn more, please review our [Cookie Policy](https://www.chipotle.com/cookie-policy) and our visit our recently updated [Privacy Policy,](https://www.chipotle.com/privacy-policy) [including California Privacy Rights](https://www.chipotle.com/privacy-policy). By continuing to access or use our website, you agree to our [Terms of Use](https://www.chipotle.com/terms-of-use) including the arbitration and class action waiver.
+
+Do Not Sell or Share My Personal Information / Opt OutAccept AllPrivacy Preferences
+
+ [Skip to main content](https://newsroom.chipotle.com/press-releases#content)
 
 # CHIPOTLE NEWS RELEASES
 
 News releases are archived for three years and are presented in chronological order. Please use the search bar below to search News Releases.
 
-April 2026
+May 2026
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| 29 | 30 | 31 | 1 | 2 | 3 | 4 |
-| 5 | 6 | 7 | 8 | 9 | 10 | 11 |
-| 12 | 13 | 14 | 15 | 16 | 17 | 18 |
-| 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 1 | 2 |
 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| 10 | 11 | 12 | 13 | 14 | 15 | 16 |
+| 17 | 18 | 19 | 20 | 21 | 22 | 23 |
+| 24 | 25 | 26 | 27 | 28 | 29 | 30 |
+| 31 | 1 | 2 | 3 | 4 | 5 | 6 |
 
 Cancel Go
 
-April 2026
+May 2026
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| 29 | 30 | 31 | 1 | 2 | 3 | 4 |
-| 5 | 6 | 7 | 8 | 9 | 10 | 11 |
-| 12 | 13 | 14 | 15 | 16 | 17 | 18 |
-| 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 1 | 2 |
 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| 10 | 11 | 12 | 13 | 14 | 15 | 16 |
+| 17 | 18 | 19 | 20 | 21 | 22 | 23 |
+| 24 | 25 | 26 | 27 | 28 | 29 | 30 |
+| 31 | 1 | 2 | 3 | 4 | 5 | 6 |
 
 Cancel Go
 
@@ -54,6 +62,28 @@ Asset Types
 PhotosVideoAudioDocumentsEventsStandard
 
 [Basic Search](https://newsroom.chipotle.com/press-releases#)
+
+- [![](https://newsroom.chipotle.com/file.php/180989/Chipotle-Cobra-Image_1200px.jpg?thumbnail=144)Opens in new window](https://newsroom.chipotle.com/2026-05-05-MAX-HOMA-BRINGS-BACK-VIRAL-CHIPOTLE-X-COBRA-BURRITO-HEADCOVER-TO-THE-PGA-TOUR)
+
+
+
+May 5, 2026
+
+
+
+[MAX HOMA BRINGS BACK VIRAL CHIPOTLE X COBRA BURRITO HEADCOVER TO THE PGA TOUROpens in new window](https://newsroom.chipotle.com/2026-05-05-MAX-HOMA-BRINGS-BACK-VIRAL-CHIPOTLE-X-COBRA-BURRITO-HEADCOVER-TO-THE-PGA-TOUR)
+
+
+
+
+
+NEWPORT BEACH, Calif., May 5, 2026 – Max Homa is giving fans another shot at one of golf’s most talked-about accessories. After selling out in under three hours last year, the limited-edition...
+
+
+
+
+
+  - [Photos2Opens in new window](https://newsroom.chipotle.com/2026-05-05-MAX-HOMA-BRINGS-BACK-VIRAL-CHIPOTLE-X-COBRA-BURRITO-HEADCOVER-TO-THE-PGA-TOUR#assets_20295_122860-117)
 
 - Apr 29, 2026
 
@@ -123,27 +153,6 @@ To celebrate Teacher Appreciation Week (May 4 through May 8) and National Nurses
 
 Appoints Arlie Sisson to newly formed Chief Digital Officer role to accelerate innovation efforts tied to Recipe for Growth strategy NEWPORT BEACH, Calif., April 27, 2026 /PRNewswire/ -- Chipotle...
 
-- [![](https://newsroom.chipotle.com/file.php/180960/1200SustainabilityReportPR.jpg?thumbnail=144)Opens in new window](https://newsroom.chipotle.com/2026-04-22-CHIPOTLE-REPORTS-FIRST-CUMULATIVE-REAL-FOODPRINT-RESULTS,-INCLUDING-OVER-616-MILLION-GALLONS-OF-WATER-SAVED-IN-2025)
-
-
-
-Apr 22, 2026
-
-
-
-[CHIPOTLE REPORTS FIRST CUMULATIVE REAL FOODPRINT RESULTS, INCLUDING OVER 616 MILLION GALLONS OF WATER SAVED IN 2025Opens in new window](https://newsroom.chipotle.com/2026-04-22-CHIPOTLE-REPORTS-FIRST-CUMULATIVE-REAL-FOODPRINT-RESULTS,-INCLUDING-OVER-616-MILLION-GALLONS-OF-WATER-SAVED-IN-2025)
-
-
-
-
-
-For the first time, Chipotle is reporting cumulative Real Foodprint results across all digital orders in 2025, quantifying the estimated environmental impact of its ingredient sourcing standards...
-
-
-
-
-
-  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-04-22-CHIPOTLE-REPORTS-FIRST-CUMULATIVE-REAL-FOODPRINT-RESULTS,-INCLUDING-OVER-616-MILLION-GALLONS-OF-WATER-SAVED-IN-2025#assets_20295_122855-117)
 
 Show
 
