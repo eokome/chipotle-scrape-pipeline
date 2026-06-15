@@ -3,7 +3,15 @@ url: https://newsroom.chipotle.com/press-releases
 title: chipotle news releases
 ---
 
-[Skip to main content](https://newsroom.chipotle.com/press-releases#content)
+### Your Privacy Preferences
+
+If you would like to submit a Data Subject Request, please click here: [Data Subject Request Form](https://www.chipotle.com/privacy-request)
+
+We use cookies to enhance your website and app experience, improve functionality and support our marketing efforts. You can manage your cookie preferences by clicking “Do Not Sell or Share My Personal Information / Opt Out.” If you wish to opt out of Chipotle’s sharing your personal information directly with third parties for the purpose of targeted advertising, please click on “Your Privacy Choices” link in the footer of our website and complete the US Consumer Data Request Form found under the Data Subject Rights tab. To learn more, please review our [Cookie Policy](https://www.chipotle.com/cookie-policy) and our visit our recently updated [Privacy Policy,](https://www.chipotle.com/privacy-policy) [including California Privacy Rights](https://www.chipotle.com/privacy-policy). By continuing to access or use our website, you agree to our [Terms of Use](https://www.chipotle.com/terms-of-use) including the arbitration and class action waiver.
+
+Do Not Sell or Share My Personal Information / Opt OutAccept AllPrivacy Preferences
+
+ [Skip to main content](https://newsroom.chipotle.com/press-releases#content)
 
 # CHIPOTLE NEWS RELEASES
 
@@ -54,6 +62,28 @@ Asset Types
 PhotosVideoAudioDocumentsEventsStandard
 
 [Basic Search](https://newsroom.chipotle.com/press-releases#)
+
+- [![](https://mmx.prnewswire.com/media/MS1858810/Soccer_BOGO_Lockup_PR_Asset.jpg?id=OA2690089&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-06-08-CHIPOTLE-KICKS-OFF-SUMMERS-BIGGEST-TOURNAMENT-WITH-ITS-FIRST-EVER-MATCHDAY-BOGO-FOR-FANS-WEARING-SOCCER-JERSEYS)
+
+
+
+Jun 8, 2026
+
+
+
+[CHIPOTLE KICKS OFF SUMMER'S BIGGEST TOURNAMENT WITH ITS FIRST-EVER MATCHDAY BOGO FOR FANS WEARING SOCCER JERSEYSOpens in new window](https://newsroom.chipotle.com/2026-06-08-CHIPOTLE-KICKS-OFF-SUMMERS-BIGGEST-TOURNAMENT-WITH-ITS-FIRST-EVER-MATCHDAY-BOGO-FOR-FANS-WEARING-SOCCER-JERSEYS)
+
+
+
+
+
+All fans who wear a soccer jersey to Chipotle restaurants in the U.S., Canada and U.K. on June 11, after 3 p.m. local time, can receive a buy-one-get-one free entrée1 Chipotle is releasing its...
+
+
+
+
+
+  - [Photos2Opens in new window](https://newsroom.chipotle.com/2026-06-08-CHIPOTLE-KICKS-OFF-SUMMERS-BIGGEST-TOURNAMENT-WITH-ITS-FIRST-EVER-MATCHDAY-BOGO-FOR-FANS-WEARING-SOCCER-JERSEYS#assets_20295_122865-117)
 
 - [![](https://mmx.prnewswire.com/media/MS1853469/53_Years-53_Real_Ingredients.jpg?id=OA2644601&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-06-03-53-YEARS-53-REAL-INGREDIENTS-CHIPOTLE-TO-GIVE-AWAY-53,000-FREE-BURRITOS-FOR-THE-MENS-PROFESSIONAL-BASKETBALL-CHAMPIONSHIP-SERIES)
 
@@ -132,28 +162,6 @@ New Chipotle U Rewards data highlights top group-order campuses, delivery hotspo
 
 
   - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-05-11-CHIPOTLE-REVEALS-AMERICAS-MOST-CHIPOTLE-OBSESSED-COLLEGE-TOWNS-AND-CELEBRATES-THE-CLASS-OF-2026-WITH-GIFT-CARD-OFFER#assets_20295_122861-117)
-
-- [![](https://newsroom.chipotle.com/file.php/180989/Chipotle-Cobra-Image_1200px.jpg?thumbnail=144)Opens in new window](https://newsroom.chipotle.com/2026-05-05-MAX-HOMA-BRINGS-BACK-VIRAL-CHIPOTLE-X-COBRA-BURRITO-HEADCOVER-TO-THE-PGA-TOUR)
-
-
-
-May 5, 2026
-
-
-
-[MAX HOMA BRINGS BACK VIRAL CHIPOTLE X COBRA BURRITO HEADCOVER TO THE PGA TOUROpens in new window](https://newsroom.chipotle.com/2026-05-05-MAX-HOMA-BRINGS-BACK-VIRAL-CHIPOTLE-X-COBRA-BURRITO-HEADCOVER-TO-THE-PGA-TOUR)
-
-
-
-
-
-NEWPORT BEACH, Calif., May 5, 2026 – Max Homa is giving fans another shot at one of golf’s most talked-about accessories. After selling out in under three hours last year, the limited-edition...
-
-
-
-
-
-  - [Photos2Opens in new window](https://newsroom.chipotle.com/2026-05-05-MAX-HOMA-BRINGS-BACK-VIRAL-CHIPOTLE-X-COBRA-BURRITO-HEADCOVER-TO-THE-PGA-TOUR#assets_20295_122860-117)
 
 Show
 
