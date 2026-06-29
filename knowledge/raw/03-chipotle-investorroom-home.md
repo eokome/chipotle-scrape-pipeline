@@ -33,9 +33,9 @@ Appoints Arlie Sisson to newly formed Chief Digital Officer role to accelerate i
 
 NYSECMG
 
-$32.49
+$33.34
 
-$0.63
+$1.06
 
 Currency in USD.
 
