@@ -9,10 +9,38 @@ Browse the calendar to view Investor related events and announcements.  Webcast
 
 [Alerts![](https://ir.chipotle.com/images/webdriver/email_alerts.png)](https://ir.chipotle.com/alerts?type=4)
 
-2017201820192020202120222023202420252026JanuaryFebruaryMarchAprilMayGO
+2017201820192020202120222023202420252026JanuaryFebruaryMarchAprilMayJuneJulyAugustGO
 
 - Upcoming Events
 - Past Events
+
+July 2026
+
+
+Wednesday, July 29, 2026
+
+4:30pm - 5:30pm EDT
+
+[Listen to the webcast](https://app.webinar.net/1xylDGAwMKP)
+
+[Chipotle Mexican Grill Second Quarter 2026 Results](https://ir.chipotle.com/events?item=61)
+
+[More](https://ir.chipotle.com/events?item=61)
+
+May 2026
+
+
+Thursday, May 28, 2026
+
+2:30pm EDT
+
+[Listen to the webcast](https://event.summitcast.com/view/LCrkJqkW2kWbeKaWQnzTns/guest_book?session_id=EW246KjmRLXQz5ZEXX5dU4)
+
+[Bernstein 42nd Annual Strategic Decisions Conference](https://ir.chipotle.com/events?item=62)
+
+Fireside Chat with Scott Boatwright, chief executive officer, and Adam Rymer, chief financial officer
+
+[More](https://ir.chipotle.com/events?item=62)
 
 April 2026
 
@@ -117,32 +145,6 @@ Wednesday, July 24, 2024
 [Chipotle Mexican Grill Second Quarter 2024 Results](https://ir.chipotle.com/events?item=53)
 
 [More](https://ir.chipotle.com/events?item=53)
-
-April 2024
-
-
-Wednesday, April 24, 2024
-
-4:30pm - 5:30pm EDT
-
-[Listen to the webcast](https://app.webinar.net/rnaEYrbYlM4)
-
-[Chipotle Mexican Grill First Quarter 2024 Results](https://ir.chipotle.com/events?item=52)
-
-[More](https://ir.chipotle.com/events?item=52)
-
-February 2024
-
-
-Tuesday, February 6, 2024
-
-4:30pm - 5:30pm EST
-
-[Listen to the webcast](https://app.webinar.net/x940w7xM37k)
-
-[Chipotle Mexican Grill Fourth Quarter 2023 Results](https://ir.chipotle.com/events?item=51)
-
-[More](https://ir.chipotle.com/events?item=51)
 
 No events to display
 
