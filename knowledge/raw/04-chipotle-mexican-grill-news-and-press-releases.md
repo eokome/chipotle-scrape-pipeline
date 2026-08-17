@@ -9,15 +9,16 @@ title: Chipotle Mexican Grill News and Press Releases
 
 Jump to News Releases:
 
-July 2026
+August 2026
 
 | SundaySu | MondayMo | TuesdayTu | WednesdayWe | ThursdayTh | FridayFr | SaturdaySa |
 | --- | --- | --- | --- | --- | --- | --- |
-| 28 | 29 | 30 | 1 | 2 | 3 | 4 |
-| 5 | 6 | 7 | 8 | 9 | 10 | 11 |
-| 12 | 13 | 14 | 15 | 16 | 17 | 18 |
-| 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 31 | 1 |
+| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| 9 | 10 | 11 | 12 | 13 | 14 | 15 |
+| 16 | 17 | 18 | 19 | 20 | 21 | 22 |
+| 23 | 24 | 25 | 26 | 27 | 28 | 29 |
+| 30 | 31 | 1 | 2 | 3 | 4 | 5 |
 
 Close
 
@@ -46,6 +47,46 @@ Making a selection with these dropdown will cause content on this page to change
 25 per page
 
 ## Latest
+
+[![CHIPOTLE DEBUTS IN SAUDI ARABIA WITH FIRST RESTAURANT IN RIYADH](https://mmx.prnewswire.com/media/MS1969014/CHIPOTLE-MEXICAN-GRILL-New-Restaurant.jpg?id=OA2876403&w=300)\\
+\\
+**Aug 13, 2026, 07:53 ET      CHIPOTLE DEBUTS IN SAUDI ARABIA WITH FIRST RESTAURANT IN RIYADH** \\
+\\
+Chipotle Mexican Grill (NYSE: CMG) today announced the opening of its first restaurant in the Kingdom of Saudi Arabia (KSA) later this month in...\\
+\\
+* * *](https://www.prnewswire.com/news-releases/chipotle-debuts-in-saudi-arabia-with-first-restaurant-in-riyadh-302850522.html)
+
+[![CHIPOTLE IQ RETURNS WITH MORE THAN $1 MILLION IN FREE CHIPOTLE, PLUS NEW DAILY STREAKS, SILVER TICKETS AND A COLLECTIBLE CARD GAME](https://mmx.prnewswire.com/media/MS1967459/ChipotleIq_Sweepstakes_1920x1080.jpg?id=OA2854285&w=300)\\
+\\
+**Aug 11, 2026, 07:53 ET      CHIPOTLE IQ RETURNS WITH MORE THAN $1 MILLION IN FREE CHIPOTLE, PLUS NEW DAILY STREAKS, SILVER TICKETS AND A COLLECTIBLE CARD GAME** \\
+\\
+From August 18 through August 20, Chipotle Rewards members can put their brand knowledge to the test for a chance to win BUY-ONE-GET-ONE (BOGO) free...\\
+\\
+* * *](https://www.prnewswire.com/news-releases/chipotle-iq-returns-with-more-than-1-million-in-free-chipotle-plus-new-daily-streaks-silver-tickets-and-a-collectible-card-game-302847784.html)
+
+[![CHIPOTLE CELEBRATES NATIONAL AVOCADO DAY WITH FREE CHIPS AND GUAC](https://mmx.prnewswire.com/media/MS1958648/Chipotle-Mexican-Grill-National-Avocado-Day.jpg?id=OA2794606&w=300)\\
+\\
+**Jul 27, 2026, 10:53 ET      CHIPOTLE CELEBRATES NATIONAL AVOCADO DAY WITH FREE CHIPS AND GUAC** \\
+\\
+Chipotle Mexican Grill (NYSE: CMG) today announced it is celebrating National Avocado Day with one of its biggest National Avocado Day offers yet....\\
+\\
+* * *](https://www.prnewswire.com/news-releases/chipotle-celebrates-national-avocado-day-with-free-chips-and-guac-302834881.html)
+
+[![CHIPOTLE PUTS A NEW TWIST ON SOCCER'S HYDRATION BREAK WITH $1 MILLION IN FREE BURRITOS](https://mmx.prnewswire.com/media/MS1884012/1920x1080-Chipotle-Water-Break.jpg?id=OA2766770&w=300)\\
+\\
+**Jul 16, 2026, 07:53 ET      CHIPOTLE PUTS A NEW TWIST ON SOCCER'S HYDRATION BREAK WITH $1 MILLION IN FREE BURRITOS** \\
+\\
+Chipotle Mexican Grill (NYSE: CMG) today announced that it is turning one of soccer's newest matchday traditions into a $1 million burrito giveaway...\\
+\\
+* * *](https://www.prnewswire.com/news-releases/chipotle-puts-a-new-twist-on-soccers-hydration-break-with-1-million-in-free-burritos-302827104.html)
+
+[![CHIPOTLE ENTERS MEXICO WITH FIRST RESTAURANT IN NUEVO LEÓN](https://mmx.prnewswire.com/media/MS1881435/Chipotle-Mexican-Grill.jpg?id=OA2759598&w=300)\\
+\\
+**Jul 13, 2026, 16:10 ET      CHIPOTLE ENTERS MEXICO WITH FIRST RESTAURANT IN NUEVO LEÓN** \\
+\\
+Chipotle Mexican Grill (NYSE: CMG) today announced that the first Chipotle restaurant in Mexico will open on Thursday, July 16 in San Pedro Garza...\\
+\\
+* * *](https://www.prnewswire.com/news-releases/chipotle-enters-mexico-with-first-restaurant-in-nuevo-leon-302824162.html)
 
 [![CHIPOTLE KICKS OFF SUMMER'S BIGGEST TOURNAMENT WITH ITS FIRST-EVER MATCHDAY BOGO FOR FANS WEARING SOCCER JERSEYS](https://mmx.prnewswire.com/media/MS1858810/Soccer_BOGO_Lockup_PR_Asset.jpg?id=OA2690089&w=300)\\
 \\
@@ -206,46 +247,6 @@ Chipotle Mexican Grill (NYSE:CMG) today announced a new addition to its board of
 On the night before Thanksgiving, a popular time for young adults to reconnect with friends, Chipotle will fuel hometown reunions with an...\\
 \\
 * * *](https://www.prnewswire.com/news-releases/chipotle-reunites-hometown-friends-with-a-buy-one-get-one-bogo-entree-offer-on-thanksgiving-eve-302621409.html)
-
-[![CHIPOTLE ANNOUNCES THIRD QUARTER 2025 RESULTS](https://mma.prnewswire.com/media/624816/Chipotle_Mexican_Grill_Logo.jpg?w=300)\\
-\\
-**Oct 29, 2025, 16:10 ET      CHIPOTLE ANNOUNCES THIRD QUARTER 2025 RESULTS** \\
-\\
-hipotle Mexican Grill, Inc. (NYSE: CMG) today reported financial results for its third quarter ended September 30, 2025. Third quarter highlights,...\\
-\\
-* * *](https://www.prnewswire.com/news-releases/chipotle-announces-third-quarter-2025-results-302598916.html)
-
-[![CHIPOTLE AND RIOT GAMES INTRODUCE THE CHIPOTLE CHALLENGER BUNDLE IN 2XKO](https://i.ytimg.com/vi/5t3oDOZwsvk/hqdefault.jpg)\\
-\\
-**Oct 07, 2025, 11:00 ET      CHIPOTLE AND RIOT GAMES INTRODUCE THE CHIPOTLE CHALLENGER BUNDLE IN 2XKO** \\
-\\
-Chipotle continues its support of the Fighting Game Community (FGC) as an official launch partner of Riot Games' 2XKO, a next-generation fighting...\\
-\\
-* * *](https://www.prnewswire.com/news-releases/chipotle-and-riot-games-introduce-the-chipotle-challenger-bundle-in-2xko-302576772.html)
-
-[![CHIPOTLE TO EXPAND TO ASIA FOR THE FIRST TIME THROUGH A JOINT VENTURE WITH SPC GROUP](https://mma.prnewswire.com/media/2769542/CMG_Korean.jpg?w=300)\\
-\\
-**Sep 10, 2025, 15:45 ET      CHIPOTLE TO EXPAND TO ASIA FOR THE FIRST TIME THROUGH A JOINT VENTURE WITH SPC GROUP** \\
-\\
-Chipotle Mexican Grill (NYSE: CMG) today announced it has signed a joint venture to open restaurants in Asia for the first time. In partnership, SPC...\\
-\\
-* * *](https://www.prnewswire.com/news-releases/chipotle-to-expand-to-asia-for-the-first-time-through-a-joint-venture-with-spc-group-302553062.html)
-
-[![CHIPOTLE MEXICAN GRILL TO ANNOUNCE THIRD QUARTER 2025 RESULTS ON OCTOBER 29, 2025](https://mma.prnewswire.com/media/624816/Chipotle_Mexican_Grill_Logo.jpg?w=300)\\
-\\
-**Sep 02, 2025, 16:10 ET      CHIPOTLE MEXICAN GRILL TO ANNOUNCE THIRD QUARTER 2025 RESULTS ON OCTOBER 29, 2025** \\
-\\
-Chipotle Mexican Grill (NYSE: CMG) will host a conference call on Wednesday, October 29, 2025 at 4:30 PM Eastern time to discuss third quarter 2025...\\
-\\
-* * *](https://www.prnewswire.com/news-releases/chipotle-mexican-grill-to-announce-third-quarter-2025-results-on-october-29-2025-302544178.html)
-
-[![CHIPOTLE TEAMS UP WITH ELITE COLLEGE ATHLETIC PROGRAMS TO FUEL STUDENT ATHLETES WITH REAL FOOD](https://mma.prnewswire.com/media/2758742/Chipotle_OSU_Student_Athletes.jpg?w=300)\\
-\\
-**Aug 27, 2025, 07:53 ET      CHIPOTLE TEAMS UP WITH ELITE COLLEGE ATHLETIC PROGRAMS TO FUEL STUDENT ATHLETES WITH REAL FOOD** \\
-\\
-For the 2025-26 school year, all student athletes at The Ohio State University, University of Florida and University of Georgia will receive a...\\
-\\
-* * *](https://www.prnewswire.com/news-releases/chipotle-teams-up-with-elite-college-athletic-programs-to-fuel-student-athletes-with-real-food-302539611.html)
 
 ### Journalists and Bloggers
 
