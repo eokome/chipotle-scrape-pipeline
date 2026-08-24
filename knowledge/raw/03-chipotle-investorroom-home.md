@@ -37,9 +37,9 @@ Chipotle Mexican Grill (NYSE: CMG) will host a conference call on Wednesday, Jul
 
 NYSECMG
 
-$33.50
+$36.90
 
---
+$1.61
 
 Currency in USD.
 
