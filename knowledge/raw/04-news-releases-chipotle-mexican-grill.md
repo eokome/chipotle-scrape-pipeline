@@ -141,6 +141,8 @@ Cookies are used to support and manage your interactions with our website and pr
 
 OKAYPRIVACY POLICY
 
+(opens in a new window)
+
 Twitter Widget Iframe
 
 [5](https://ir.chipotle.com/Financial-Releases?l=5) [10](https://ir.chipotle.com/Financial-Releases?l=10) [25](https://ir.chipotle.com/Financial-Releases?l=25) [50](https://ir.chipotle.com/Financial-Releases?l=50) [100](https://ir.chipotle.com/Financial-Releases?l=100)
