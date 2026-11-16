@@ -11,31 +11,35 @@ RECENT NEWS
 
 [Alerts](https://ir.chipotle.com/alerts)
 
-Apr 29, 2026
+Oct 28, 2026
 
-[CHIPOTLE ANNOUNCES FIRST QUARTER 2026 RESULTS](https://ir.chipotle.com/2026-04-29-CHIPOTLE-ANNOUNCES-FIRST-QUARTER-2026-RESULTS)
+[CHIPOTLE ANNOUNCES THIRD QUARTER 2026 RESULTS](https://ir.chipotle.com/2026-10-28-CHIPOTLE-ANNOUNCES-THIRD-QUARTER-2026-RESULTS)
 
-RETURN TO POSITIVE TRANSACTIONS DRIVES 0.5% COMPARABLE RESTAURANT SALES GROWTH; REVENUE INCREASES 7.4% TO $3.1 BILLION NEWPORT BEACH, Calif., April 29, 2026 /PRNewswire/ -- Chipotle Mexican Grill,...
+COMPARABLE RESTAURANT SALES INCREASE 2.1% AS CHIPOTLE DELIVERS A THIRD CONSECUTIVE QUARTER OF POSITIVE TRANSACTION GROWTH NEWPORT BEACH, Calif., Oct. 28, 2026 /PRNewswire/ -- Chipotle Mexican...
 
-Apr 27, 2026
+[![](https://ir.chipotle.com/file.php/902/1PRAssetChipotle1500thOpening2026_1200SEO.jpg?thumbnail=144)](https://ir.chipotle.com/2026-09-29-CHIPOTLE-REACHES-1,500-CHIPOTLANES,-ADVANCING-NORTH-AMERICAN-GROWTH-STRATEGY)
 
-[CHIPOTLE TAPS AWARD-WINNING FERNANDO MACHADO AS CHIEF BRAND OFFICER](https://ir.chipotle.com/2026-04-27-CHIPOTLE-TAPS-AWARD-WINNING-FERNANDO-MACHADO-AS-CHIEF-BRAND-OFFICER)
+Sep 29, 2026
 
-Appoints Arlie Sisson to newly formed Chief Digital Officer role to accelerate innovation efforts tied to Recipe for Growth strategy NEWPORT BEACH, Calif., April 27, 2026 /PRNewswire/ -- Chipotle...
+- [Photos (4)](https://ir.chipotle.com/2026-09-29-CHIPOTLE-REACHES-1,500-CHIPOTLANES,-ADVANCING-NORTH-AMERICAN-GROWTH-STRATEGY#assets_20295_122859-3)
 
-Mar 17, 2026
+[CHIPOTLE REACHES 1,500 CHIPOTLANES, ADVANCING NORTH AMERICAN GROWTH STRATEGY](https://ir.chipotle.com/2026-09-29-CHIPOTLE-REACHES-1,500-CHIPOTLANES,-ADVANCING-NORTH-AMERICAN-GROWTH-STRATEGY)
 
-[CHIPOTLE MEXICAN GRILL TO ANNOUNCE FIRST QUARTER 2026 RESULTS ON APRIL 29, 2026](https://ir.chipotle.com/2026-03-17-CHIPOTLE-MEXICAN-GRILL-TO-ANNOUNCE-FIRST-QUARTER-2026-RESULTS-ON-APRIL-29,-2026)
+The milestone restaurant will open in Florida as Chipotle expects to grow its restaurant footprint in the state by approximately 17% in 2026 and create approximately 1,500 restaurant jobs Chipotle...
 
-Chipotle Mexican Grill (NYSE: CMG) will host a conference call on Wednesday, April 29, 2026, at 4:30 p.m. ET to discuss first quarter 2026 financial results and provide a business update for the...
+Sep 14, 2026
+
+[CHIPOTLE APPOINTS SABIR SAMI TO ITS BOARD OF DIRECTORS](https://ir.chipotle.com/2026-09-14-CHIPOTLE-APPOINTS-SABIR-SAMI-TO-ITS-BOARD-OF-DIRECTORS)
+
+Chipotle Mexican Grill (NYSE:CMG) today announced a new addition to its board of directors, Sabir Sami, effective immediately. Sabir Sami brings more than 30 years of global consumer and...
 
 [Read More](https://ir.chipotle.com/Financial-Releases)
 
 NYSECMG
 
-$32.65
+$35.28
 
-$0.56
+$0.11
 
 Currency in USD.
 
@@ -59,11 +63,11 @@ If you are a Chipotle shareholder and would like to receive your proxy materials
 
 Events
 
-**Chipotle Mexican Grill First Quarter 2026 Results**
+**Chipotle Mexican Grill Third Quarter 2026 Results**
 
-**Wednesday, April 29, 2026 at 4:30 p.m. (EDT)**
+**Wednesday, October 28, 2026 at 4:30 p.m. (EDT)**
 
-[Listen to the Webcast](https://app.webinar.net/Kv5605dNA3d)
+[Listen to the Webcast](https://app.webinar.net/eoKjwMGDP7l)
 
 [CONTACT US](https://ir.chipotle.com/contact-us)
 
