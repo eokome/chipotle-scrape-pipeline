@@ -45,9 +45,9 @@ Chipotle Mexican Grill (NYSE:CMG) today announced a new addition to its board of
 
 NYSECMG
 
-$34.43
+$35.55
 
--$0.97
+-$0.75
 
 Currency in USD.
 
